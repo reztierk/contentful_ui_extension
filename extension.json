@@ -1,5 +1,5 @@
 {
-  "id": "text_field_test",
+  "id": "text-field-test",
   "name": "UI Extension test",
   "srcdoc": "index.html",
   "fieldTypes": ["Symbol","Text"],

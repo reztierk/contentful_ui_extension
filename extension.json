@@ -7,14 +7,14 @@
     "instance": [
       {
         "id": "testInstanceParameter",
-        "type": "Symbol",
+        "type": "Text",
         "name": "An example instance parameter"
       }
     ],
     "installation": [
       {
         "id": "testInstallParameter",
-        "type": "Symbol",
+        "type": "Text",
         "name": "An example installation parameter"
       }
     ]

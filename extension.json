@@ -2,19 +2,19 @@
   "id": "text_field_test",
   "name": "UI Extension test",
   "srcdoc": "index.html",
-  "fieldTypes": ["Text"],
+  "fieldTypes": ["Symbol","Text"],
   "parameters": {
     "instance": [
       {
         "id": "testInstanceParameter",
-        "type": "Text",
+        "type": "Symbol",
         "name": "An example instance parameter"
       }
     ],
     "installation": [
       {
         "id": "testInstallParameter",
-        "type": "Text",
+        "type": "Symbol",
         "name": "An example installation parameter"
       }
     ]
